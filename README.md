@@ -1,6 +1,6 @@
 - 🦆 Hi, I’m @EmirB08.
 - 🖥️ I’m interested in web development & AI.
-- ✍️ I’m currently learning JavaScript/TypeScript & React.
+- ✍️ I’m currently learning JavaScript/TypeScript & React/Vite.
 - 🐥 Contact me on <a href="https://discordapp.com/users/emirb08"> Discord <a/>.
 
 <!---
