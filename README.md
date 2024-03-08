@@ -2,7 +2,7 @@ Mitt navn er Emir Baftiarovic, og jeg har nylig fullført del en (teori) av Kode
 
 Jeg er interessert i både frontend og backend og jobber nå med å få bedre forståelse for backend med frameworks som Next.js/Express.js og med UI frameworks som JoyUI, Radix og Shadcn/ui for frontend design.
 
-⌁ <a href="https:/nextjs-portofolio-opal.vercel.app"> Portofolio <a/><br>
+⌁ <a href="nextjs-portofolio-opal.vercel.app"> Portofolio <a/><br>
 ⌁ <a href="https://discordapp.com/users/emirb08"> Discord <a/>
 
 <!---
