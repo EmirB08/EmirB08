@@ -4,6 +4,9 @@ Jeg er interessert i både frontend og backend og jobber nå med å få bedre fo
 
 ⌗ <a href="https://nextjs-portofolio-opal.vercel.app"> Portofolio <a/><br>
 ⌗ <a href="https://discordapp.com/users/emirb08"> Discord <a/>
+⌗ <a href="https://gitlab.com/emir9155412"> Gitlab <a/>
+
+
 
 <!---
 EmirB08/EmirB08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
